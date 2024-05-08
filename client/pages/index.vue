@@ -29,6 +29,9 @@
                 <div>
                     <button type="submit" class="flex w-full justify-center rounded-md bg-[#0072BC] px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-[#1B5D88] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Sign in</button>
                 </div>
+                <div>
+                    <nuxt-link to="./dashboard" class="flex w-full justify-center rounded-md bg-[#0072BC] px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-[#1B5D88] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 items-center"><img src="../assets/css/img/office365(2).png" class="h-6 w-6 mr-2 items-center" alt="">Student and Staff Office 365 Login</nuxt-link>
+                </div>
             </form>
 
             <!-- <p class="mt-10 text-center text-sm text-gray-500">
