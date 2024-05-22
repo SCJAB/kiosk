@@ -1,5 +1,5 @@
 <template>
-    <div class="flex justify-center items-center h-screen">
+    <div class="flex justify-center items-center h-screen scrollbar-hide">
         <div class="p-6 max-w-lg mx-auto bg-white rounded-xl shadow-md flex items-center space-x-4">
             <div class="flex flex-col">
                 <label class="font-medium text-lg">Add Product</label>
